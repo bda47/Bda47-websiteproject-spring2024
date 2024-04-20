@@ -68,7 +68,7 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 
 Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE) license.
 
-<!-- What I Did-->
+What I Did
 #I Used a resume template from Start Bootstrap
 #Used bootstrap for website add ons like buttons, color changes etc. 
 #added my own social media links using Bootstrap
