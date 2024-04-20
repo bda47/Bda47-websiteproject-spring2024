@@ -1,68 +1,76 @@
-Get the PRO version here:
-https://templatesjungle.gumroad.com/l/carl-free-bootstrap-5-html-website-template-for-portfolio
+# [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume/)
 
-It is a free Bootstrap HTML CSS template by TemplatesJungle.com
-You can use this template as a starter template and start building as you require.
+[Resume](https://startbootstrap.com/theme/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
-The code is consistent and can be easily maintained as we have followed a good coding standards. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
+## Preview
 
+[![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
 
-FREE FOR BOTH PERSONAL AND COMMERCIAL USE
+**[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
 
-This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
+## Status
 
-However, you can remove the credit link by paying for PRO version of the template which also includes additional pages.
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-resume/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
 
+## Download and Installation
 
-RIGHTS
+To begin using this template, choose one of the following options to get started:
 
-You are allowed to use it in your personal projects and commercial projects.
+- [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/resume/)
+- Install using npm: `npm i startbootstrap-resume`
+- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-resume.git`
+- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-resume)
 
-You can modify and sell it to your clients.
+## Usage
 
+### Basic Usage
 
-PROHIBITIONS
+After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-You cannot remove the credit link which links back to templatesjungle.com if you downloaded free version.
+### Advanced Usage
 
-You are not permitted to resell or redistribute (paid or free) as it is. 
+Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
 
-You cannot use it to build premium templates, themes or any other goods to be sold on marketplaces.
+#### npm Scripts
 
-If you want to share the free resource in your blog, you must point it to original TemplatesJungle.com resource page. 
+- `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
+- `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
+- `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
+- `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
+- `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
+- `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
+- `npm run start:debug` runs the project in debug mode
+- `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
 
-You cannot host the download file in your website.
+You must have npm installed in order to use this build environment.
 
+## Bugs and Issues
 
-SUPPORT
+Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-resume/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/resume/).
 
-You can contact us to report any bugs and errors in the template. We will try and fix them immediately although it's a free resource.
+## About
 
-Feel free to let us know about what you want to see in the future downloads. We will definitely give it a thought while creating our next freebie.
+Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
+- <https://startbootstrap.com>
+- <https://twitter.com/SBootstrap>
 
-CREDITS & REFERENCES
+Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
 
-https://getbootstrap.com/
+- <https://davidmiller.io>
+- <https://twitter.com/davidmillerhere>
+- <https://github.com/davidtmiller>
 
-Stock Photos
-https://unsplash.com/
-https://www.freepik.com/
-https://www.pexels.com/
+Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-Fonts
-Google fonts
-https://fonts.google.com/
+## Copyright and License
 
-Icons
-https://iconify.design/
+Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE) license.
 
-JQuery Plugins
-Swiper Slider - https://swiperjs.com/
-AOS - https://michalsnik.github.io/aos/
-
-Thanks for downloading from TemplatesJungle.com !
-
+<!-- What I Did-->
 #I Used a resume template from Start Bootstrap
 #Used bootstrap for website add ons like buttons, color changes etc. 
 #added my own social media links using Bootstrap
+#found logos for the programming languages using the Font Awesome database from Bootstrap
+#replaced the interests section with a Resume section and pasted 
