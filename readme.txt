@@ -63,3 +63,5 @@ AOS - https://michalsnik.github.io/aos/
 
 Thanks for downloading from TemplatesJungle.com !
 
+#I Used a resume template from Start Bootstrap
+#Used bootstrap for website add ons like buttons, color changes etc. 
